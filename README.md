@@ -3,7 +3,7 @@
 Le code de la taxe d'habitation est produit par la [Direction Générale des Finances publiques](https://www.economie.gouv.fr/dgfip).
 Cette ouverture s’inscrit dans la mise en œuvre de la [Loi pour un République numérique](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=9DEF56AB5707222923E5987E65335EF1.tplgfr29s_2?cidTexte=JORFTEXT000033202746&categorieLien=id), qui a ajouté à l’[article L300-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000031367689&dateTexte=&categorieLien=cid) du Code des Relations entre le Public et l’Administration (CRPA) la mention de codes sources comme documents administratifs.
 
-Le dossier code source contient les scripts C tels qu'utilisés par la DGFiP pour calculer la taxe d'habitation 2017.
+Le dossier code contient les scripts C tels qu'utilisés par la DGFiP pour calculer la taxe d'habitation 2017.
 
 Le dossier documentation contient 3 fichiers : 
 * PRO.TH.2017.calent - données en entree.pdf 
