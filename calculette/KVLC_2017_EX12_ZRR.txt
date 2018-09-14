@@ -1,0 +1,119 @@
+Initialisation
+e1;;csdi;060;
+e1;;dep;06;
+e1;;cne;088;
+e1;;antax;2017;
+e1;;aff;H;
+e1;;vlb7l;1000;
+e1;;vlb7c;0;
+e1;;cxloz;  ;
+e1;;txzrr;000;
+e9;;antax;2017;
+e9;;dep;06;
+e9;;cne;088;
+e9;;cxcn1; ;
+e9;;cxcn2; ;
+e9;;cxcn3; ;
+/
+01 ANNEE N
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+/
+02 ANNEE N+1
+;;module;kvlc;
+e9;;antax;2018;
+e1;;antax;2018;
+/
+03 ANNEE N-1
+;;module;kvlc;
+e9;;antax;2016;
+e1;;antax;2016;
+/
+04 ANNEE N-2
+;;module;kvlc;
+e9;;antax;2015;
+e1;;antax;2015;
+/
+05 ANNEE N-3
+;;module;kvlc;
+e9;;antax;2014;
+e1;;antax;2014;
+/
+06 ANNEE N-4
+;;module;kvlc;
+e9;;antax;2013;
+e1;;antax;2013;
+/
+07 M1 2017
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+e1;;txzrr;010;
+e1;;cxloz;M1;
+e9;;cxcn1;M1;
+/
+08 M1 2017
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+e1;;txzrr;010;
+e1;;cxloz;M2;
+e9;;cxcn1;M1;
+/
+09 M1 2016
+;;module;kvlc;
+e9;;antax;2016;
+e1;;antax;2016;
+e1;;txzrr;010;
+e1;;cxloz;M1;
+e9;;cxcn1;M1;
+/
+10 M2 2017
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+e1;;txzrr;010;
+e1;;cxloz;M2;
+e9;;cxcn2;M2;
+/
+11 M2 2017
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+e1;;txzrr;010;
+e1;;cxloz;M1;
+e9;;cxcn2;M2;
+/
+12 M2 2016
+;;module;kvlc;
+e9;;antax;2016;
+e1;;antax;2016;
+e1;;txzrr;010;
+e1;;cxloz;M2;
+e9;;cxcn2;M2;
+/
+13 M3 2017
+;;module;kvlc;
+e9;;antax;2017;
+e1;;antax;2017;
+e1;;txzrr;010;
+e1;;cxloz;M3;
+e9;;cxcn3;M3;
+/
+14 M3 2016
+;;module;kvlc;
+e9;;antax;2016;
+e1;;antax;2016;
+e1;;txzrr;010;
+e1;;cxloz;M3;
+e9;;cxcn3;M3;
+/
+15 M3 2016
+;;module;kvlc;
+e9;;antax;2016;
+e1;;antax;2016;
+e1;;txzrr;010;
+e1;;cxloz;M1;
+e9;;cxcn3;M3;
+/

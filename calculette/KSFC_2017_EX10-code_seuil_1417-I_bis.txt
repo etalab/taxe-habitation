@@ -1,0 +1,895 @@
+Initialisation
+e4;;antax;2016;
+e4;;csdi;060;
+e4;;cnua;S;
+e4;rede_1;revfe;10000;
+e4;rede_1;nbpar;100;
+e4;rede_1;front; ;
+e4;rede_1;annir;2015;
+e4;rede_2;revfe;0;
+e4;rede_2;nbpar;0;
+e4;rede_2;front; ;
+e4;rede_2;annir;;
+e4;rede_r;revfe;0;
+e4;rede_r;nbpar;0;
+e4;rede_r;front; ;
+e4;rede_r;annir;;
+/
+01 ANNEE 2013 INVALIDE
+;;module;ksfc;
+e4;;antax;2013;
+e4;rede_1;annir;2012;
+/
+02 ANNEE 2014 VALIDE
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+/
+03 ANNEE 2015 VALIDE
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+/
+04 ANNEE 2016 VALIDE
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015;
+/
+05 ANNEE 2017 VALIDE
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+/
+06 ANNEE 2018 INVALIDE
+;;module;ksfc;
+e4;;antax;2018;
+e4;rede_1;annir;2017;
+/
+07 COD DIR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;csdi;999;
+e4;rede_1;annir;2013;
+/
+08 COD DIR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;csdi;999;
+e4;rede_1;annir;2014;
+/
+09 COD DIR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;csdi;999;
+e4;rede_1;annir;2015;
+/
+10 COD DIR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;csdi;999;
+e4;rede_1;annir;2016;
+/
+11 COD NATAFF INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;Z;
+e4;rede_1;annir;2013;
+/
+12 COD NATAFF INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;Z;
+e4;rede_1;annir;2014;
+/
+13 COD NATAFF INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;Z;
+e4;rede_1;annir;2015;
+/
+14 COD NATAFF INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;Z;
+e4;rede_1;annir;2016;
+/
+15 COD FRONT RED1 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;front;Z;
+/
+16 COD FRONT RED1 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;front;Z;
+/
+17 COD FRONT RED1 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015;
+e4;rede_1;front;Z;
+/
+18 COD FRONT RED1 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;front;Z;
+/
+19 COD FRONT RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;C;
+e4;rede_1;annir;2013;
+e4;rede_2;annir;2013;
+e4;rede_2;front;Z;
+/
+20 COD FRONT RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;C;
+e4;rede_1;annir;2014;
+e4;rede_2;annir;2014;
+e4;rede_2;front;Z;
+/
+21 COD FRONT RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;C;
+e4;rede_1;annir;2015;
+e4;rede_2;annir;2015;
+e4;rede_2;front;Z;
+/
+22 COD FRONT RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;C;
+e4;rede_1;annir;2016;
+e4;rede_2;annir;2016;
+e4;rede_2;front;Z;
+/
+23 COD FRONT REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;C;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;front;Z;
+/
+24 COD FRONT REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;C;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;front;Z;
+/
+25 COD FRONT REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;C;
+e4;rede_1;annir;2015;
+e4;rede_r;annir;2015;
+e4;rede_r;front;Z;
+/
+26 COD FRONT REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;C;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;front;Z;
+/
+27 NBPART RED2 + REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;R;
+e4;rede_1;annir;2013;
+e4;rede_2;nbpar;100;
+e4;rede_r;annir;2013;
+/
+28 NBPART RED2 + REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;R;
+e4;rede_1;annir;2014;
+e4;rede_2;nbpar;100;
+e4;rede_r;annir;2014;
+/
+29 NBPART RED2 + REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;R;
+e4;rede_1;annir;2015;
+e4;rede_2;nbpar;100;
+e4;rede_r;annir;2015;
+/
+30 NBPART RED2 + REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;R;
+e4;rede_1;annir;2016;
+e4;rede_2;nbpar;100;
+e4;rede_r;annir;2016;
+/
+31 NBPART REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;R;
+e4;rede_1;annir;2013;
+e4;rede_1;nbpar;0;
+e4;rede_r;annir;2013;
+/
+32 NBPART REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;R;
+e4;rede_1;annir;2014;
+e4;rede_1;nbpar;0;
+e4;rede_r;annir;2015;
+/
+33 NBPART REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;R;
+e4;rede_1;annir;2015;
+e4;rede_1;nbpar;0;
+e4;rede_r;annir;2015;
+/
+34 NBPART REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;R;
+e4;rede_1;annir;2016;
+e4;rede_1;nbpar;0;
+e4;rede_r;annir;2013;
+/
+35 NBPART RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;S;
+e4;rede_1;annir;2013;
+e4;rede_2;nbpar;100;
+/
+36 NBPART RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;S;
+e4;rede_1;annir;2014;
+e4;rede_2;nbpar;100;
+/
+37 NBPART RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;S;
+e4;rede_1;annir;2015;
+e4;rede_2;nbpar;100;
+/
+38 NBPART RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;S;
+e4;rede_1;annir;2016;
+e4;rede_2;nbpar;100;
+/
+39 NBPART RED1 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;nbpar;133;
+/
+40 NBPART RED1 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;nbpar;133;
+/
+41 NBPART RED1 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_1;nbpar;133;
+/
+42 NBPART RED1 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;nbpar;133;
+/
+43 NBPART RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;C;
+e4;rede_1;annir;2013;
+e4;rede_2;nbpar;133;
+/
+44 NBPART RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;C;
+e4;rede_1;annir;2014;
+e4;rede_2;nbpar;133;
+/
+45 NBPART RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;C;
+e4;rede_1;annir;2015
+e4;rede_2;nbpar;133;
+/
+46 NBPART RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;C;
+e4;rede_1;annir;2016;
+e4;rede_2;nbpar;133;
+/
+47 NBPART REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;R;
+e4;rede_1;annir;2013;
+e4;rede_r;nbpar;133;
+/
+48 NBPART REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;R;
+e4;rede_1;annir;2014;
+e4;rede_r;nbpar;133;
+/
+49 NBPART REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;R;
+e4;rede_1;annir;2015
+e4;rede_r;nbpar;133;
+/
+50 NBPART REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;R;
+e4;rede_1;annir;2016;
+e4;rede_r;nbpar;133;
+/
+51 NBPART RED1 FRONT INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;front;K;
+e4;rede_1;nbpar;075;
+/
+52 NBPART RED1 FRONT INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;front;K;
+e4;rede_1;nbpar;075;
+/
+53 NBPART RED1 FRONT INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_1;front;K;
+e4;rede_1;nbpar;075;
+/
+54 NBPART RED1 FRONT INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;front;K;
+e4;rede_1;nbpar;075;
+/
+55 NBPART RED2 FRONT INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;C;
+e4;rede_1;annir;2013;
+e4;rede_2;annir;2013;
+e4;rede_2;front;K;
+e4;rede_2;nbpar;075;
+/
+56 NBPART RED2 FRONT INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;C;
+e4;rede_1;annir;2014;
+e4;rede_2;annir;2014;
+e4;rede_2;front;K;
+e4;rede_2;nbpar;075;
+/
+57 NBPART RED2 FRONT INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;C;
+e4;rede_1;annir;2015;
+e4;rede_2;annir;2015;
+e4;rede_2;front;K;
+e4;rede_2;nbpar;075;
+/
+58 NBPART RED2 FRONT INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;C;
+e4;rede_1;annir;2016;
+e4;rede_2;annir;2016;
+e4;rede_2;front;K;
+e4;rede_2;nbpar;075;
+/
+59 NBPART REDR FRONT INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;;cnua;R;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;075;
+/
+60 NBPART REDR FRONT INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;;cnua;R;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;075;
+/
+61 NBPART REDR FRONT INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;;cnua;R;
+e4;rede_1;annir;2015;
+e4;rede_r;annir;2015;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;075;
+/
+62 NBPART REDR FRONT INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;R;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;075;
+/
+63 NBPART RED1 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;nbpar;-100;
+/
+64 NBPART RED1 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;nbpar;-100;
+/
+65 NBPART RED1 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_1;nbpar;-100;
+/
+66 NBPART RED1 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;nbpar;-100;
+/
+67 NBPART RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_2;annir;2013;
+e4;rede_2;nbpar;-100;
+/
+68 NBPART RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_2;annir;2014;
+e4;rede_2;nbpar;-100;
+/
+69 NBPART RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_2;annir;2015;
+e4;rede_2;nbpar;-100;
+/
+70 NBPART RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_2;annir;2016;
+e4;rede_2;nbpar;-100;
+/
+71 NBPART REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;nbpar;-100;
+/
+72 NBPART REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;nbpar;-100;
+/
+73 NBPART REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2015;
+e4;rede_r;nbpar;-100;
+/
+74 NBPART REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;nbpar;-100;
+/
+75 REVFE RED1 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;revfe;-1;
+/
+76 REVFE RED1 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;revfe;-1;
+/
+77 REVFE RED1 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015;
+e4;rede_1;revfe;-1;
+/
+78 REVFE RED1 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;-1;
+/
+79 REVFE RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_2;annir;2013;
+e4;rede_2;revfe;-1;
+/
+80 REVFE RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_2;annir;2014;
+e4;rede_2;revfe;-1;
+/
+81 REVFE RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_2;annir;2015;
+e4;rede_2;revfe;-1;
+/
+82 REVFE RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_2;annir;2016;
+e4;rede_2;revfe;-1;
+/
+83 REVFE REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;revfe;-1;
+/
+84 REVFE REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;revfe;-1;
+/
+85 REVFE REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2015;
+e4;rede_r;revfe;-1;
+/
+86 REVFE REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;revfe;-1;
+/
+87 NBPAR REDR FRONT INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;revfe;1;
+e4;rede_r;nbpar;0;
+/
+88 NBPAR REDR FRONT INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;revfe;1;
+e4;rede_r;nbpar;0;
+/
+89 NBPAR REDR FRONT INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2015;
+e4;rede_r;revfe;1;
+e4;rede_r;nbpar;0;
+/
+90 NBPAR REDR FRONT INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;revfe;1;
+e4;rede_r;nbpar;0;
+/
+91 NBPAR REDR FRONT INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2013;
+e4;rede_r;revfe;1;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;100;
+/
+92 NBPAR REDR FRONT INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2014;
+e4;rede_r;revfe;1;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;100;
+/
+93 NBPAR REDR FRONT INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2015;
+e4;rede_r;revfe;1;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;100;
+/
+94 NBPAR REDR FRONT INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2016;
+e4;rede_r;revfe;1;
+e4;rede_r;front;K;
+e4;rede_r;nbpar;100;
+/
+95 NBPAR REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2012;
+e4;rede_r;revfe;1;
+e4;rede_r;front; ;
+e4;rede_r;nbpar;100;
+/
+96 NBPAR REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2013;
+e4;rede_r;revfe;1;
+e4;rede_r;front; ;
+e4;rede_r;nbpar;100;
+/
+97 NBPAR REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2014;
+e4;rede_r;revfe;1;
+e4;rede_r;front; ;
+e4;rede_r;nbpar;100;
+/
+98 NBPAR REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2015;
+e4;rede_r;revfe;1;
+e4;rede_r;front; ;
+e4;rede_r;nbpar;100;
+/
+99 ANNIR RED1 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2014;
+/
+100 ANNIR RED1 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2015;
+/
+101 ANNIR RED1 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2016
+/
+102 ANNIR RED1 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2017;
+/
+103 ANNIR RED2 INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_2;annir;2014;
+/
+104 ANNIR RED2 INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_2;annir;2015;
+/
+105 ANNIR RED2 INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_2;annir;2016;
+/
+106 ANNIR RED2 INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_2;annir;2017;
+/
+107 ANNIR REDR INVALIDE ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_r;annir;2014;
+/
+108 ANNIR REDR INVALIDE ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_r;annir;2015;
+/
+109 ANNIR REDR INVALIDE ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015
+e4;rede_r;annir;2016;
+/
+110 ANNIR REDR INVALIDE ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_r;annir;2017;
+/
+111 PAS DE 1417 I BIS ANNEE 2014
+;;module;ksfc;
+e4;;antax;2014;
+e4;rede_1;annir;2013;
+e4;rede_1;revfe;18768;
+/
+112 PAS DE 1417 I BIS ANNEE 2015
+;;module;ksfc;
+e4;;antax;2015;
+e4;rede_1;annir;2014;
+e4;rede_1;revfe;18977;
+/
+113 PAS DE 1417 I BIS ANNEE 2016
+;;module;ksfc;
+e4;;antax;2016;
+e4;rede_1;annir;2015;
+e4;rede_1;revfe;19004;
+/
+114 RFR &lt;= 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;19009;
+/
+115 RFR &gt; 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;19010;
+/
+116 RFR &lt;= 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;20587;
+e4;rede_1;nbpar;175;
+/
+117 RFR &gt; 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;20588;
+e4;rede_1;nbpar;175;
+/
+118 RFR &lt;= 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;23443;
+e4;rede_1;nbpar;200;
+/
+119 RFR &gt; 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;23443;
+e4;rede_1;nbpar;200;
+/
+120 RFR &lt;= 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;24232;
+e4;rede_1;nbpar;225;
+/
+121 RFR &gt; 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;24233;
+e4;rede_1;nbpar;225;
+/
+122 RFR &lt;= 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;105892;
+e4;rede_1;nbpar;1025;
+/
+123 RFR &gt; 1417 I BIS ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;105893;
+e4;rede_1;nbpar;1025;
+/
+124 INCONNU IR ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;C;
+e4;rede_1;annir;2016;
+e4;rede_1;revfe;105893;
+e4;rede_1;nbpar;1025;
+e4;rede_2;annir; ;
+e4;rede_2;revfe; ;
+e4;rede_2;nbpar; ;
+/
+125 INCONNU IR ANNEE 2017
+;;module;ksfc;
+e4;;antax;2017;
+e4;;cnua;S;
+e4;rede_1;annir; ;
+e4;rede_1;revfe; ;
+e4;rede_1;nbpar; ;
+e4;rede_2;annir; ;
+e4;rede_2;revfe; ;
+e4;rede_2;nbpar; ;
+/
