@@ -12,7 +12,7 @@ Le dossier **documentation** contient 3 fichiers :
 * PRO.TH.2017.calsor - données en sortie.pdf 
 * PRO.TH.2017.calano - liste des anomalies
 
-Le dossier**test** permet de tester le code sur quelques exemples et contient : 
+Le dossier **test** permet de tester le code sur quelques exemples et contient : 
 * Un exécutable
 * Des fichiers d'exemples
 * Une documentation expliquant comment faire fonctionner la calculette sur les jeux d'exemple.
