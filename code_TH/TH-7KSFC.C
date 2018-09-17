@@ -1,7 +1,7 @@
 /* 
 #*************************************************************************************************************************
 #
-#Copyright or © or Copr.[DGFIP][2018]
+#DGFIP [2018]
 #
 #Ce logiciel a été initialement développé par la Direction Générale des
 #Finances Publiques pour permettre le calcul de la taxe d'habitation 2017.
