@@ -41,6 +41,6 @@ code.  Merci de votre compréhension.
 © 2017-2018 Direction Générale des Finances Publiques
 
 Ce code est sous licence CeCILL v2.1.  Voir le fichier
-[LICENSE.txt](LICENSE.txt).
+[LICENCE.txt](LICENCE.txt).
 
 
