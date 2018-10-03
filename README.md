@@ -38,7 +38,7 @@ code.  Merci de votre compréhension.
 
 ## Droits d'auteur et licence
 
-© 2017-2018 Direction Générale des Finances Publiques
+2017-2018 Direction Générale des Finances Publiques
 
 Ce code est sous licence CeCILL v2.1.  Voir le fichier
 [LICENCE.txt](LICENCE.txt).
